@@ -7,6 +7,4 @@ This repository detects images in the Fashion MNIST data set using two different
 
 A good source from which to obtain the Fashion MNIST data set is right here in the GitHub ecosystem at https://github.com/zalandoresearch/fashion-mnist. 
 
-<p align="center">
-  ![](images/36FMNimages500.png)
-</p>
+![](images/36FMNimages500.png)
